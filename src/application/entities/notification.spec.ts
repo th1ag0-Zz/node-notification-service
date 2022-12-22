@@ -1,4 +1,3 @@
-import { SendNotification } from '../use-cases/send-notification';
 import { Content } from './content';
 import { Notification } from './notification';
 
